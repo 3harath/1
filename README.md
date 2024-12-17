@@ -1,20 +1,10 @@
-# arasgungore.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
-
-
-
-## Screenshots
-
-<p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
-</p>
+Portfolio Website
+Welcome to my portfolio website! This project showcases my work, skills.
 
 
-
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+**Features**
+Responsive design for all devices.
+Interactive sections for showcasing projects, skills, and contact information.
+Easy navigation with a clean and modern UI.
+Dynamic animations to enhance user experience.
